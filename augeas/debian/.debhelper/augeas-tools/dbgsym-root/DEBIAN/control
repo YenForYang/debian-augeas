@@ -1,0 +1,12 @@
+Package: augeas-tools-dbgsym
+Source: augeas
+Version: 1.11.0-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Hilko Bengen <bengen@debian.org>
+Installed-Size: 67
+Depends: augeas-tools (= 1.11.0-2)
+Section: debug
+Priority: optional
+Description: debug symbols for augeas-tools
+Build-Ids: 38f247222019e81544ea96f0fcba33948010e38a 84d29e2dcc209d7a5409a116f257338abbbb25a3 d978af27414decf959386e9c28ed8d42faee8381

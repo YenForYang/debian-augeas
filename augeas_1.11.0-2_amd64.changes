@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Mon, 01 Oct 2018 10:09:29 +0200
+Source: augeas
+Binary: augeas-tools libaugeas-dev libaugeas0 augeas-lenses augeas-doc
+Built-For-Profiles: nobiarch nocheck nodoc
+Architecture: all amd64
+Version: 1.11.0-2
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Hilko Bengen <bengen@debian.org>
+Changed-By: Ondřej Nový <onovy@debian.org>
+Description:
+ augeas-doc - Augeas lenses documentation
+ augeas-lenses - Set of lenses needed by libaugeas0 to parse config files
+ augeas-tools - Augeas command line tools
+ libaugeas-dev - Development files for writing applications based on libaugeas0
+ libaugeas0 - Augeas configuration editing library and API
+Changes:
+ augeas (1.11.0-2) UNRELEASED; urgency=medium
+ .
+   * d/changelog: Remove trailing whitespaces
+Checksums-Sha1:
+ a5444fc57c5db2805557972a46bcbfdcc0f13329 145572 augeas-doc_1.11.0-2_all.deb
+ 0b22f61dc06251f2962e25cd206e1f0f8c7697f4 441572 augeas-lenses_1.11.0-2_all.deb
+ 04105a0513d1e5831786f31dc715e02c7ff3ad44 27948 augeas-tools-dbgsym_1.11.0-2_amd64.deb
+ b83b46e7ff5374a3d438b3d28500c9c82d0daddc 193968 augeas-tools_1.11.0-2_amd64.deb
+ 9649010ddb2ba1e25e6446f6a33912dd840f11d9 10735 augeas_1.11.0-2_amd64.buildinfo
+ a355947861168b876c40cc5d6e14c333f5eb5a5b 2999372 libaugeas-dev_1.11.0-2_amd64.deb
+ aae4664a62774a18fccf18830f2294141a1d98e0 546676 libaugeas0-dbgsym_1.11.0-2_amd64.deb
+ a654499ab172290f396e803da5121e9af367903d 551572 libaugeas0_1.11.0-2_amd64.deb
+Checksums-Sha256:
+ 55a0f523106434322461c03594e3685e234745f89cbb287ca408585a988290f1 145572 augeas-doc_1.11.0-2_all.deb
+ b51213d28ec6d0e8a8b42bde061a9e964e06a80fe7522c28db915c365f068007 441572 augeas-lenses_1.11.0-2_all.deb
+ 2c853558519ee0ffa695e08486226a0b12725ebcaee33fac3864342ef3538eee 27948 augeas-tools-dbgsym_1.11.0-2_amd64.deb
+ 142a4d6b7c8624fee03bc04d9688e42820313620f9cb8b22a28c53bf1adeeade 193968 augeas-tools_1.11.0-2_amd64.deb
+ 0e526a30127a490418c1591aee7063f8f285769fc623692b68a6698b1467147a 10735 augeas_1.11.0-2_amd64.buildinfo
+ 42bf404e1fc3577b4cce7610b3a7ca70dc9ac6237471c4347e12aef52d99b1c1 2999372 libaugeas-dev_1.11.0-2_amd64.deb
+ 595468e646a25cbba5d5dbe08d5adadf8ea2d78749e415ced5b9aa7de4deed34 546676 libaugeas0-dbgsym_1.11.0-2_amd64.deb
+ 17cbf99530992271309abd515cc58e53f8aba3fe358146ba1cf612e68bf50f84 551572 libaugeas0_1.11.0-2_amd64.deb
+Files:
+ e8f076eb9279ed84123fa03a3d1930ee 145572 doc optional augeas-doc_1.11.0-2_all.deb
+ a326b29267ffc617f295ee458535b201 441572 misc optional augeas-lenses_1.11.0-2_all.deb
+ fac7378afd55e61a52638c1f41f9965a 27948 debug optional augeas-tools-dbgsym_1.11.0-2_amd64.deb
+ cdb2c608218cebc7d9a689fc007ae3e0 193968 admin optional augeas-tools_1.11.0-2_amd64.deb
+ 97817d100d81e44cd22b82a258eb26bf 10735 libs optional augeas_1.11.0-2_amd64.buildinfo
+ 88379557baef54c2ecb688afc3a4e959 2999372 libdevel optional libaugeas-dev_1.11.0-2_amd64.deb
+ 0128bf559605c216b1dac05f75dc8cf0 546676 debug optional libaugeas0-dbgsym_1.11.0-2_amd64.deb
+ 845de3ca6f92fec403edcfd96f53cb87 551572 libs optional libaugeas0_1.11.0-2_amd64.deb

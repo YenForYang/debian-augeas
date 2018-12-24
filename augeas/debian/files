@@ -1,0 +1,8 @@
+augeas-doc_1.11.0-2_all.deb doc optional
+augeas-lenses_1.11.0-2_all.deb misc optional
+augeas-tools-dbgsym_1.11.0-2_amd64.deb debug optional automatic=yes
+augeas-tools_1.11.0-2_amd64.deb admin optional
+augeas_1.11.0-2_amd64.buildinfo libs optional
+libaugeas-dev_1.11.0-2_amd64.deb libdevel optional
+libaugeas0-dbgsym_1.11.0-2_amd64.deb debug optional automatic=yes
+libaugeas0_1.11.0-2_amd64.deb libs optional

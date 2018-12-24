@@ -1,0 +1,13 @@
+Package: libaugeas0-dbgsym
+Source: augeas
+Version: 1.11.0-2
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Hilko Bengen <bengen@debian.org>
+Installed-Size: 588
+Depends: libaugeas0 (= 1.11.0-2)
+Section: debug
+Priority: optional
+Multi-Arch: same
+Description: debug symbols for libaugeas0
+Build-Ids: 9f5fd9cef08af41d477de571866a30a24029143a b8d14fac80e50a91c1d05c559756ae2d2ce9d13a

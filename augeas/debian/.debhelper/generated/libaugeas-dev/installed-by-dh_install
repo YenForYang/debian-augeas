@@ -1,0 +1,7 @@
+debian/tmp/usr/include/augeas.h
+debian/tmp/usr/include/fa.h
+debian/tmp/usr/lib/x86_64-linux-gnu/libaugeas.so
+debian/tmp/usr/lib/x86_64-linux-gnu/libfa.so
+debian/tmp/usr/lib/x86_64-linux-gnu/libaugeas.a
+debian/tmp/usr/lib/x86_64-linux-gnu/libfa.a
+debian/tmp/usr/lib/x86_64-linux-gnu/pkgconfig/augeas.pc

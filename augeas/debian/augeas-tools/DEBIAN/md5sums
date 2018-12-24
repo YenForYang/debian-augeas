@@ -1,0 +1,9 @@
+e103c778cb5b0198cb9ed28bb2c7fec1  usr/bin/augmatch
+4a369dce3a6909386025e6b42056b243  usr/bin/augparse
+6d7ef926afec85822e164ff339a0b6d3  usr/bin/augtool
+a5a0765be238de1b069b8ea8bcf27de1  usr/share/doc/augeas-tools/changelog.Debian.gz
+12039b69a6c3be4a9e87899860b4263a  usr/share/doc/augeas-tools/changelog.gz
+d9606e57c9e674dac1c92ed7c502206d  usr/share/doc/augeas-tools/copyright
+07b729762ce6cf287ba8c78b1b023492  usr/share/man/man1/augmatch.1.gz
+256690e48d9addc56a49113919b26c13  usr/share/man/man1/augparse.1.gz
+d1ec590ffc499003a237f1d31a3b8de8  usr/share/man/man1/augtool.1.gz

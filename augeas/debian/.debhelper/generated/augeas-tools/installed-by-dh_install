@@ -1,0 +1,4 @@
+debian/tmp/usr/bin/augtool
+debian/tmp/usr/bin/augparse
+debian/tmp/usr/bin/augmatch
+debian/tmp/usr/share/man/man1

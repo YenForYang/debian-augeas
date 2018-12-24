@@ -1,0 +1,8 @@
+36b182d1d237712641d07794c2993dc5  usr/include/augeas.h
+cff040c0a0a4656aafe4d26a1c347952  usr/include/fa.h
+bdfd2cbd90c1b026ffbbc7c819c9aaf0  usr/lib/x86_64-linux-gnu/libaugeas.a
+cc0b821c59c36a84f06f82890d46020e  usr/lib/x86_64-linux-gnu/libfa.a
+db1e0860d4c5f6d8f929ea7f8d82cef2  usr/lib/x86_64-linux-gnu/pkgconfig/augeas.pc
+a5a0765be238de1b069b8ea8bcf27de1  usr/share/doc/libaugeas-dev/changelog.Debian.gz
+12039b69a6c3be4a9e87899860b4263a  usr/share/doc/libaugeas-dev/changelog.gz
+d9606e57c9e674dac1c92ed7c502206d  usr/share/doc/libaugeas-dev/copyright
